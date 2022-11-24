@@ -13,11 +13,11 @@ global.owner = [522481856283
   ['528123881490', '👑 Mystic - Collaborator 5 👑', true],
   ['523112883548', '👑 Mystic - Collaborator 6 👑', true],
   ['593979367862', '👑 Mystic - Collaborator 7 👑', true],
-  ['50768177389'], '👑 Mystic - Collaborator 8 👑', true],
+  ['50768177389', '👑 Mystic - Collaborator 8 👑', true],
   [''], 
   [''],
   [''],
-  ['']
+  [''],
 ] 
 global.suittag = ['5219993404349'] 
 global.prems = ['51995386439'] 
