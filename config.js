@@ -5,7 +5,7 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [522481856283
-  ['522481762347', '👑 Mystic - Creador 👑', true],
+  ['522481856283', '👑 Mystic - Creador 👑', true],
   ['573102853032', '👑 Mystic - Collaborator 1 👑', true],
   ['51956398895', '👑 Mystic - Collaborator 2 👑', true],
   ['573208204737', '👑 Mystic - Collaborator 3 👑', true],
