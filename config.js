@@ -4,28 +4,28 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
-global.owner = [522481277109
-  ['522481762347', '👑 Mystic - Creador 👑', true],
-  ['573102853032', '👑 Mystic - Collaborator 1 👑', true],
-  ['51956398895', '👑 Mystic - Collaborator 2 👑', true],
-  ['573208204737', '👑 Mystic - Collaborator 3 👑', true],
-  ['526863864624', '👑 Mystic - Collaborator 4 👑', true],
-  ['528123881490', '👑 Mystic - Collaborator 5 👑', true],
-  ['523112883548', '👑 Mystic - Collaborator 6 👑', true],
-  ['593979367862', '👑 Mystic - Collaborator 7 👑', true],
-  ['50768177389', '👑 Mystic - Collaborator 8 👑', true],
+global.owner = [522217999001
+  ['2481437738', '👑 Eli - Creador 👑', true],
+  ['', '👑 Eli - Collaborator 1 👑', true],
+  ['', '👑 Eli - Collaborator 2 👑', true],
+  ['', '👑 Eli - Collaborator 3 👑', true],
+  ['', '👑 Mystic - Collaborator 4 👑', true],
+  ['', '👑 Mystic - Collaborator 5 👑', true],
+  ['', '👑 Mystic - Collaborator 6 👑', true],
+  ['', '👑 Mystic - Collaborator 7 👑', true],
+  ['', '👑 Mystic - Collaborator 8 👑', true],
   [''], 
   [''],
   [''],
   [''],
 ] 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = [''] 
+global.prems = [''] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.author = '★𝚃𝚑𝚎 Eli - 𝙱𝚘𝚝★'
+global.wm = '★𝚃𝚑𝚎 Eli - 𝙱𝚘𝚝★'
+global.igfg = '★𝚃𝚑𝚎 Eli - 𝙱𝚘𝚝★'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
